@@ -12,7 +12,7 @@
       "value": "azureUser"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "winvm"
     },
     "rdpPort": {
       "value": 50001
