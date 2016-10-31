@@ -69,7 +69,7 @@
             },
             "resources": [],
             "dependsOn": [
-                "[resourceId('Microsoft.Web/serverfarms', parameters('serverfarms_ServicePlan35c11283_a54e_name'))]"
+                "[resourceId('Microsoft.Web/serverfarms', parameters('webapp-plan'))]"
             ]
         }
     ]
