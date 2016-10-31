@@ -65,7 +65,7 @@
                         "ipBasedSslState": 0
                     }
                 ],
-                "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', parameters('serverfarms_ServicePlan35c11283_a54e_name'))]"
+                "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', parameters('webapp-plan'))]"
             },
             "resources": [],
             "dependsOn": [
